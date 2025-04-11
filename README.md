@@ -2,7 +2,7 @@
   Portfolio Website - v2.0<br/>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img.PNG" />
+  <img alt="Demo" src="./Images/ReadmePic.png" />
 </div>
 
 <br/>
