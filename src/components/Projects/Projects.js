@@ -7,7 +7,7 @@ import PCWorld from "../../Assets/Projects/PCWorld.png";
 import EleFlex from "../../Assets/Projects/EleFlex.png";
 import SMEConnect from "../../Assets/Projects/SME.png";
 import PrimeLand from "../../Assets/Projects/PrimeLand.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import Ruhunix from "../../Assets/Projects/Ruhunix.png";
 
 function Projects() {
   return (
@@ -33,12 +33,12 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={Ruhunix}
               isBlog={false}
               title="Ruhunix"
               description="A collaborative freelancing platform designed for university students to connect, showcase their skills, and work on real-world projects for income. Built with React, Node.js, Express.js, and MongoDB, the app features a clean UI designed in Figma, organized via Trello, and tested using Postman. GitHub is used for version control and team collaboration."
               ghLink="https://github.com/CSB-DEVELOPMENTS"
-              demoLink="https://blogs.soumya-jit.tech/"
+              demoLink="https://www.ruhnix.csbodima.lk/"
             />
           </Col>
 
