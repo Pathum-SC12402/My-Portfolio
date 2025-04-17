@@ -59,6 +59,7 @@ function Projects() {
               title="Task Tracker"
               description="A full-stack task tracking web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) and styled with CSS. Designed using Figma and deployed with GitHub Actions, the app features secure user authentication, dynamic task updates, and efficient tracking of deadlines and project progress."
               ghLink="https://github.com/Pathum-SC12402/Task-Tacker-Frontend-React-JS"
+              demoLink="https://task-tacker-frontend-react-js.vercel.app/"
             />
           </Col>
 
