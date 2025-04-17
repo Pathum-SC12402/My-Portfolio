@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.db5013a6.css",
-    "main.js": "/My-Portfolio/static/js/main.268e7294.js",
+    "main.js": "/My-Portfolio/static/js/main.d990f92c.js",
     "static/js/770.cf7f7224.chunk.js": "/My-Portfolio/static/js/770.cf7f7224.chunk.js",
     "static/js/453.1407b060.chunk.js": "/My-Portfolio/static/js/453.1407b060.chunk.js",
     "static/media/logo.png": "/My-Portfolio/static/media/logo.cb0fe362312972106d00.png",
     "static/media/myPic.png": "/My-Portfolio/static/media/myPic.3a92e2f0e40ee5c89f17.png",
+    "static/media/CV_Pathum.pdf": "/My-Portfolio/static/media/CV_Pathum.d22de4962cccda3f89f8.pdf",
     "static/media/Ruhunix.png": "/My-Portfolio/static/media/Ruhunix.d2b3defeeba12f963dd3.png",
     "static/media/home-main.svg": "/My-Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/My-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
@@ -18,12 +19,12 @@
     "static/media/pre.svg": "/My-Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/My-Portfolio/index.html",
     "main.db5013a6.css.map": "/My-Portfolio/static/css/main.db5013a6.css.map",
-    "main.268e7294.js.map": "/My-Portfolio/static/js/main.268e7294.js.map",
+    "main.d990f92c.js.map": "/My-Portfolio/static/js/main.d990f92c.js.map",
     "770.cf7f7224.chunk.js.map": "/My-Portfolio/static/js/770.cf7f7224.chunk.js.map",
     "453.1407b060.chunk.js.map": "/My-Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db5013a6.css",
-    "static/js/main.268e7294.js"
+    "static/js/main.d990f92c.js"
   ]
 }
