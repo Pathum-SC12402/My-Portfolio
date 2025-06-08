@@ -84,6 +84,18 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
+                href="https://medium.com/@pdfernando"
+                target="_blank"
+                rel="noreferrer"
+                style={{ textDecoration: "none" }}
+                onClick={() => updateExpanded(false)}
+              >
+                <ImBlog style={{ marginBottom: "2px" }} /> Blog
+              </Nav.Link>
+            </Nav.Item>
+
+            <Nav.Item>
+              <Nav.Link
                 as={Link}
                 to="/resume"
                 onClick={() => updateExpanded(false)}
